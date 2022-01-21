@@ -3,7 +3,7 @@
 
 Um simples jogo chamado Gênesis com apenas algumas linhas de código!
 
-Projetinho feito fixação de aprendizado nas tecnologias abaixo.
+Projetinho feito para fixação de aprendizado nas tecnologias abaixo.
 
 ### :wrench:Os requisitos São:
 * [HTML5 Básico](https://www.w3schools.com/html/)
